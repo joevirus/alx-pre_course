@@ -1,1 +1,1 @@
- my second non empty readme
+ This is was a fun task
